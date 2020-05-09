@@ -1,0 +1,94 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+  Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+._3ffKXltu9_xsoNcCusPi1K {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem; }
+
+._3LbVpCQS27hVOUsLH_MEAO {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+._1FgZAwHt3orS252Wmp6N8d {
+  width: 6rem;
+  height: 6rem; }
+
+.AeGmbUVEvKlm37UQAdEmk {
+  width: 8rem;
+  height: 8rem; }
+
+.OlkWSK1bIvMnFmS3QXrUP {
+  margin: 3rem 0 0; }
+
+.Kist_gVq7sTzdJurN8bhx {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0; }
+
+._2iWws2t06fucRXAM08oE-2 {
+  font-size: 2rem;
+  line-height: 1.3;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0; }
+
+._2VCzpTXA75MWdzgcpMeG0U {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 1rem 0; }
+
+._3Tey_2XkrNZbIPs8mvR8DH {
+  font-size: 1.2rem;
+  line-height: 1.5; }
+
+._20MZsqU_xqT6fVaFBoUOk1 {
+  border-radius: 9999px; }
+
+.-VD68ELRwMxvL3oycyX8y {
+  color: inherit; }
+
+._2OnzCKZ_YYrvc2Jf22SjQo {
+  padding-top: 1px; }
+
+._1TZQp_pqGXAoTBxY__lRiT {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+._2uffwhWlc0lHdOJyL5KEbu {
+  margin: 0 0 1.25rem; }
+
+._2nyC1HConFoo8AhxgggcNg {
+  color: #999; }
+
+
+/*# sourceMappingURL=styles.chunk.css.map*/
